@@ -1,0 +1,4 @@
+area (ha); operation cost ($/ha/yr)
+0; 0
+1; 4.26
+100; 426.71

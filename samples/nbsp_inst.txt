@@ -1,0 +1,3 @@
+area (ha); installation cost ($/ha)
+0; 0
+10; 436.71

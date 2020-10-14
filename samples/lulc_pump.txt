@@ -1,0 +1,9 @@
+lulc; area (km2)
+urban;101.4221
+water;0
+forest;1992.644
+grass;375.858
+crops;513.076
+forest_nbs;0
+grass_nbs;0
+crops_nbs;0
