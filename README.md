@@ -30,25 +30,25 @@ To run Plans2 you need Numpy, Pandas, Matplotlib and Scipy. If you do not have i
 
 On Windows terminal:
 
-`<C:\Windows\System32\python -m pip install --upgrade pip>` (this will update pip)
+`C:\Windows\System32\python -m pip install --upgrade pip` (this will update pip)
 
 then:
-`<C:\Windows\System32\python -m pip install numpy>`
+`C:\Windows\System32\python -m pip install numpy`
 
 then:
-`<C:\Windows\System32\python -m pip install pandas>`
+`C:\Windows\System32\python -m pip install pandas`
 
 then:
-`<C:\Windows\System32\python -m pip install matplotlib>`
+`C:\Windows\System32\python -m pip install matplotlib`
 
 and then:
-`<C:\Windows\System32\python -m pip install scipy>`
+`C:\Windows\System32\python -m pip install scipy`
 
 ### Step 3: download a clone of this repository
 Download the ZIP file for the entire repository. Extract the files on any diretory of your machine.
 
-### Step 4: execute the `<Run.py>` file
-Double-click on `<Run.py>` and it will run the application. 
+### Step 4: execute the `Run.py` file
+Double-click on `Run.py` and it will run the application. 
 Alternatively, you may create a python file on the same directory and write the following code:
 
 ```python
@@ -60,25 +60,25 @@ main()  # call the main() function
 
 ## Modules of Plans2
 
-### `<tui.py>`
+### `tui.py`
+The frontend of Plans2 is handled by the `tui.py` module. The interface is a simple terminal-based user interface that presents menus for the user.
+
+### `plans2.py`
+The general backend tasks of Plans2 is handled by the `plans2.py` module. It performs the silent routines of input, output and process execution. 
+
+### `dp.py`
+This module holds the  Dynammic Programming (DP) optimisation algorithm of Plans2  
+
+### `scenarios.py`
 text
 
-### `<plans2.py>`
+### `hydrology.py`
 text
 
-### `<dp.py>`
+### `viz.py`
 text
 
-### `<scenarios.py>`
-text
-
-### `<hydrology.py>`
-text
-
-### `<viz.py>`
-text
-
-### `<tools>`
+### `tools`
 text
 
 ## Structure of a Plans2 Project
