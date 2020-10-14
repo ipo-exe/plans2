@@ -1,0 +1,9 @@
+Scenario name         : Overshoot
+Last update timestamp : 2020-07-13-17-30-38
+Years                 : (2020, 2025, 2030, 2035, 2040, 2045, 2050)
+Population (hab)      : Exp
+W. Consup. (L/hab/d)  : Exp
+Tariff ($/m3)         : Exp
+Elasticity            : Cons(-0.17)
+Return rate (%)       : Cons(7)
+P and PET (mm)        : ToDryX
