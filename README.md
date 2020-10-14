@@ -2,9 +2,14 @@
 
 Planning Nature-based Solutions (Plans2) is a modelling framework for planning the expansion of nature-based solutions in watersheds.
 
+### Why the "2" on "Plans2"?
+**Plans** was born within the scope of a master's degree research project, by 2018. While **Plans1** was just a handful of python scripts, **Plans2** has an application-like structure.
+
 ## What is included in this repository
 
-text
+- [x] The python files required to run Plans2;
+- [x] A directory called 'samples' with examples of all input files;
+- [ ] A 'Handbook' in PDF format.
 
 ## Python and packages required
 
@@ -18,7 +23,7 @@ Plans2 is built on top of:
 ## How to install and run Plans2
 
 ### Step 1: install Python 3.8
-Go to https://www.python.org/downloads/ and download it. Make sure you add Python to PATH on Windows (checkbox on the installation wizard).
+Go to https://www.python.org/downloads/ and download it. Make sure you add Python to PATH (checkbox on the installation wizard).
 
 ### Step 2: install the four packages required above.
 To run Plans2 you need Numpy, Pandas, Matplotlib and Scipy. If you do not have already installed, you can do that using terminal or an IDE like Pycharm.
@@ -54,6 +59,22 @@ main()  # call the main() function
 
 ## Modules of Plans2
 
+### `<tui.py>`
+text
+
+### `<plans2.py>`
+text
+
+### `<dp.py>`
+text
+
+### `<scenarios.py>`
+text
+
+### `<hydrology.py>`
+text
+
+### `<viz.py>`
 text
 
 ## Structure of a Plans2 Project
