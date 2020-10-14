@@ -1,0 +1,9 @@
+Scenario name         : MyScenario
+Last update timestamp : none
+Years                 : (2020, 2025, 2030, 2035, 2040)
+Population (hab)     [ Cons(N) | Lin | Poly(N) | Log | Exp | Pow | Logis ]       :  Lin
+W. Consup. (L/hab/d) [ Cons(N) | Lin | Poly(N) | Log | Exp | Pow | Logis ]       :  Lin
+Tariff ($/m3)        [ Cons(N) | Lin | Poly(N) | Log | Exp | Pow | Logis ]       :  Lin
+Elasticity           [ Cons(N) | Lin | Poly(N) | Log | Exp | Pow | Logis ]       :  Cons(Avg)
+Return rate (%)      [ Cons(N) | Lin | Poly(N) | Log | Exp | Pow | Logis ]       :  Cons(Avg)
+P and PET (mm)       [ Stat | Trend | ToDry | ToDryX | ToWet | ToWetX ]          :  Stat

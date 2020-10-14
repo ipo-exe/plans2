@@ -1,0 +1,78 @@
+
+
+*************** PLANS - PLANNING NATURE-BASED SOLUTIONS ***************
+
+
+Version: 2.0
+This software is under the GNU GPL3.0 license
+Source code repository: https://github.com/ipo-exe/plans/
+
+
+***** METADATA FILE *****
+
+
+Project attributes:
+
+    Project title:
+    Project ID:
+    Creation timestamp:
+    Project directory:
+
+______________________________________________________________________
+Datasets observed data directory: /datasets/observed/
+[next line is 23] Observed datasets index:
+id ; class  ; ext  ; data                            ; label        ; timestamp ; original;
+1  ; input  ; txt  ; Population                      ; pop_obs      ;;
+2  ; input  ; txt  ; Water consumption               ; wcons_obs    ;;
+3  ; input  ; txt  ; LULC pumping station basin      ; lulc_pump    ;;
+4  ; input  ; txt  ; LULC gauging station basin      ; lulc_gaug    ;;
+5  ; input  ; txt  ; Soils pumping station basin     ; soils_pump   ;;
+6  ; input  ; txt  ; Soils gauging station basin     ; soils_gaug   ;;
+7  ; input  ; txt  ; Stream flow and P gaug station  ; q_obs        ;;
+8  ; input  ; txt  ; Precipitation and PET           ; p_obs        ;;
+9  ; input  ; txt  ; Return rate                     ; rr_obs       ;;
+10 ; input  ; txt  ; Hydro model parameters          ; hydro_param  ;;
+11 ; input  ; txt  ; Hydro calibration settings      ; hydro_calib  ;;
+12 ; output ; txt  ; Hydro model calibration cloud   ; hydro_cloud  ;;
+13 ; output ; txt  ; Hydro model calibration series  ; hydro_series ;;
+14 ; output ; txt  ; Hydro model calibration curves  ; hydro_curves ;;
+15 ; input  ; txt  ; Reforestation installation      ; nbsf_inst    ;;
+16 ; input  ; txt  ; Reforestation operation         ; nbsf_oprt    ;;
+17 ; input  ; txt  ; BMP/SWC pasture installation    ; nbsp_inst    ;;
+18 ; input  ; txt  ; BMP/SWC pasture operation       ; nbsp_oprt    ;;
+19 ; input  ; txt  ; BMP/SWC crops installation      ; nbsc_inst    ;;
+20 ; input  ; txt  ; BMP/SWC crops operation         ; nbsc_oprt    ;;
+21 ; param  ; txt  ; Expansion NBS parameters        ; exp_param    ;;
+22 ; input  ; txt  ; Water tariff                    ; tariff_obs   ;;
+23 ; input  ; txt  ; Price elasticity                ; elast_obs    ;;
+24 ; input  ; txt  ; TC model calibration cloud      ; tc_cloud     ;;
+25 ; param  ; txt  ; TC model parameters             ; tc_param     ;;
+*end*
+
+
+
+
+
+
+
+
+
+	... some extra room for coming updates ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________________
+Datasets projected data directory: /datasets/projected/
+[next line is 77] Projected data scenarios index:
+Name; Last Update; Years; Pop; Wcons; Tariff; Elast; RRate; P&PET

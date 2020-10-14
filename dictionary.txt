@@ -1,0 +1,8 @@
+English;Português;Español
+eng;por;esp
+create new project; -; -
+open existing project; -; -
+project options; -; -
+enter menu key:; -; -
+you chose:; -; -
+-; -; -
