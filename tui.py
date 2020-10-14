@@ -43,7 +43,7 @@ def header_plans():
     def_str0 = stringsf.title(p0='plans - planning nature-based solutions')
     def_str1 = 'Version: 2.0'
     def_str3 = 'This software is under the GNU GPL3.0 license'
-    def_str4 = 'Source code repository: https://github.com/ipo-exe/plans/'
+    def_str4 = 'Source code repository: https://github.com/ipo-exe/plans2'
     def_str = def_str0 + '\n' + def_str1 + '\n' + def_str3 + '\n' + def_str4 + '\n\n'
     return def_str
 
@@ -71,7 +71,7 @@ def msg_formats():
     only display formatting requirements message
     :return: none
     """
-    print('For formatting requirements, consult the documentation at:\n https://github.com/ipo-exe/plans/')
+    print('For formatting requirements, consult the documentation at:\n https://github.com/ipo-exe/plans2')
 
 
 def load_dict(p0=True):
