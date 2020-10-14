@@ -1,6 +1,6 @@
 # Plans2
 
-Planning Nature-based Solutions (Plans2) is a modelling framework for planning the expansion of nature-based solutions in watersheds.
+**Planning Nature-based Solutions** (**Plans**) is a modelling framework for planning the expansion of nature-based solutions in watersheds.
 
 ### Why the "2" on "Plans2"?
 **Plans** was born within the scope of a master's degree research project, by 2018. While **Plans1** was just a handful of python scripts, **Plans2** has an application-like structure.
@@ -49,7 +49,7 @@ Download the ZIP file for the entire repository. Extract the files on any direto
 
 ### Step 4: execute the `<Run.py>` file
 Double-click on `<Run.py>` and it will run the application. 
-Alternatively, you may create a python file on the same folder and write the following code:
+Alternatively, you may create a python file on the same directory and write the following code:
 
 ```python
 from tui import main  # this imports the main() function from module tui.py
@@ -76,6 +76,9 @@ text
 text
 
 ### `<viz.py>`
+text
+
+### `<tools>`
 text
 
 ## Structure of a Plans2 Project
