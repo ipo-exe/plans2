@@ -1,0 +1,11 @@
+Parameter; Value
+size; 10
+segments; 40
+iaf range min; 0.01
+iaf range max; 1.0
+swmax range min; 1.0
+swmax range max; 200
+gwmax range min; 1.0
+gwmax range max; 20.0
+knash range min; 0.1
+knash range max; 10
