@@ -25,8 +25,9 @@ Plans2 is built on top of:
 ### Step 1: install Python 3.8
 Go to https://www.python.org/downloads/ and download it. Make sure you add Python to PATH (checkbox on the installation wizard).
 
-### Step 2: install the four packages required above.
-To run Plans2 you need Numpy, Pandas, Matplotlib and Scipy. If you do not have already installed, you can do that using terminal or an IDE like Pycharm.
+### Step 2: install the packages
+To run Plans2 you need Numpy, Pandas, Matplotlib and Scipy. If you do not have it already installed, you can do that by using terminal or an IDE, like Pycharm.
+
 On Windows terminal:
 
 `<C:\Windows\System32\python -m pip install --upgrade pip>` (this will update pip)
