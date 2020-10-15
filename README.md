@@ -8,8 +8,8 @@
 ## What is included in this repository
 
 - [x] The python files required to run Plans2;
-- [x] A directory called 'samples' with examples of all input files;
-- [ ] A 'Handbook' in PDF format.
+- [x] A directory called '`samples`' with examples of all input files;
+- [ ] A '`Plans2_handbook.pdf`' document.
 
 ## Python and packages required
 
@@ -26,11 +26,11 @@ Plans2 is built on top of:
 Go to https://www.python.org/downloads/ and download it. Make sure you add Python to PATH (checkbox on the installation wizard).
 
 ### Step 2: install the packages
-To run Plans2 you need Numpy, Pandas, Matplotlib and Scipy. If you do not have it already installed, you can do that by using terminal or an IDE, like Pycharm.
+To run Plans2 you need `numpy`, `pandas`, `matplotlib` and `scipy`. If you do not have it already installed, you can do that by using terminal or an IDE, like PyCharm.
 
 On Windows terminal:
 
-`C:\Windows\System32\python -m pip install --upgrade pip` (this will update pip)
+`C:\Windows\System32\python -m pip install --upgrade pip` (this will update `pip`)
 
 then:
 `C:\Windows\System32\python -m pip install numpy`
@@ -83,7 +83,13 @@ This is a directory that works as a package of modules for very simple unit oper
 
 ## Structure of a Plans2 Project
 
-text
+In the first time you run it, Plans2 automatically creates a directory in `C:/Plans2`. This is the standard root directory for all Plans2 projetcs. 
+Projects are subdirectories inside the root folder, like `C:/Plans2/myproject/`. Once a project is named by the user, Plans2 create the project strucutre, which includes:
+* A directory for datasets in `C:/Plans2/myproject/datasets/`
+* A directory for storing execution files in `C:/Plans2/myproject/runbin`
+
+Datasets are divided in `./datasets/observed` and `./datasets/projected`. 
+`./datasets/observed` stores all data files for the "present" time of the water system being modelled. 
 
 ## The Terminal-based interface (TUI)
 
