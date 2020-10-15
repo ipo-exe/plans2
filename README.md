@@ -67,19 +67,19 @@ The frontend of Plans2 is handled by the `tui.py` module. The interface is a sim
 The general backend tasks of Plans2 is handled by the `plans2.py` module. It performs the silent routines of input, output and process execution. 
 
 ### `dp.py`
-This module holds the  Dynammic Programming (DP) optimisation algorithm of Plans2  
+This module holds the  Dynammic Programming (DP) optimisation algorithm of Plans2. It also have the simulation costs models.  
 
 ### `scenarios.py`
-text
+This module is responsible for projecting the observed datasets into the future.
 
 ### `hydrology.py`
-text
+This module holds all hydrolgy related models, incluing the model calibration routine.
 
 ### `viz.py`
-text
+This module holds all built-in functions for creating data visualisations.
 
 ### `tools`
-text
+This is a directory that works as a package of modules for very simple unit operations.
 
 ## Structure of a Plans2 Project
 
