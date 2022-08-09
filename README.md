@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/304115475.svg)](https://zenodo.org/badge/latestdoi/304115475)
 # Plans2
 
 **Planning Nature-based Solutions** (**Plans**) is a modelling framework for planning the expansion of nature-based solutions in watersheds.
